@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b694b46-ad0e-4c53-9dc9-861fd2356b0d" name="Default" comment="" />
+    <list default="true" id="7b694b46-ad0e-4c53-9dc9-861fd2356b0d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/fun2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fun2.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +53,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="798" />
     <option name="y" value="11" />
     <option name="width" value="974" />
